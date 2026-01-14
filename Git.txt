@@ -1,0 +1,4 @@
+Git clone " "   existing repository clone
+
+git add filename  add specific file 
+git commit -m "descriptive message"
